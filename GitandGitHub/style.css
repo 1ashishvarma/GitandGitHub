@@ -5,4 +5,6 @@ html{
 body{
     background-color:blue;
     background-color: red;
+    text-emphasis: none;
+    text-decoration: blue;
 }
